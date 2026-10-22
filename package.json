@@ -1,0 +1,12 @@
+{
+  "name": "order-abstractions-task",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Разделение предметной области, сохранения и уведомлений",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
